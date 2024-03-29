@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:yash_wairagade/src/screens/portfolio.dart';
-
 import '../animation/animation_controller.dart';
 import '../animation/text_loading_animatiom.dart';
 import '../constants/colors.dart';
