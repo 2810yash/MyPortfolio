@@ -10,7 +10,7 @@ class SiteLogo extends StatelessWidget {
     return GestureDetector(
       onTap: onTap,
       child: const Text(
-        "YASH",
+        "YASH WAIRAGADE",
         style: TextStyle(
           color: CustomColor.yellowSecondary,
           fontWeight: FontWeight.bold,
